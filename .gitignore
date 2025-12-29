@@ -1,0 +1,9 @@
+
+traefik/acme.json
+
+*.log
+
+.env
+
+__pycache__/
+
